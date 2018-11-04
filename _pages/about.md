@@ -8,9 +8,21 @@ permalink: http://simonpedersen.no/about/
 published: true
 post_date: 2012-09-18 09:46:00
 ---
+<!-- wp:image {"id":515,"width":580,"height":386} --><figure class="wp-block-image is-resized">
+
+<img src="http://simonpedersen.no/wp-content/uploads/2018/11/IMG_7638_edited.jpg" alt="" class="wp-image-515" width="580" height="386" /></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
 Hello there. My name is Simon Pedersen. I'm a Christian, husband to a lovely wife and father of three wonderful kids. And I am passionate about web and most digital surfaces.
 
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
 I grew up in the southern part of Norway, in a little ship builder town called Fevik. When I was nine, we moved to what's known as the Oil Capital: Stavanger. My father said (numerous of times):
+
+<!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 
