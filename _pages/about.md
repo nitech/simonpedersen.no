@@ -10,7 +10,7 @@ post_date: 2012-09-18 09:46:00
 ---
 <!-- wp:image {"id":515} --><figure class="wp-block-image">
 
-<img src="http://simonpedersen.no/wp-content/uploads/2018/11/IMG_7638_edited.jpg" alt="" class="wp-image-515" /><figcaption>asd</figcaption></figure> <!-- /wp:image -->
+<img src="http://simonpedersen.no/wp-content/uploads/2018/11/IMG_7638_edited.jpg" alt="" class="wp-image-515" /></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
